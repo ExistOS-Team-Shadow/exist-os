@@ -1,0 +1,21 @@
+[submodule "Libs/khicas"]
+	path = Libs/khicas
+	url = git@github.com:ExistOS-Team-Shadow/khicas-39gii.git
+[submodule "OSLoader/Component3rd/tinyusb"]
+	path = OSLoader/Component3rd/tinyusb
+	url = git@github.com:hathach/tinyusb.git
+[submodule "OSLoader/Component3rd/dhara"]
+	path = OSLoader/Component3rd/dhara
+	url = git@github.com:dlbeer/dhara.git
+[submodule "System/Core"]
+	path = System/Core
+	url = git@github.com:ExistOS-Team-Shadow/freertos-kernel-39gii.git
+[submodule "System/Fs/littlefs"]
+	path = System/Fs/littlefs
+	url = git@github.com:ExistOS-Team-Shadow/littlefs-39gii.git
+[submodule "System/KLib/lvgl"]
+	path = System/KLib/lvgl
+	url = git@github.com:lvgl/lvgl.git
+[submodule "tools"]
+	path = tools
+	url = git@github.com:ExistOS-Team-Shadow/exist-tool.git
